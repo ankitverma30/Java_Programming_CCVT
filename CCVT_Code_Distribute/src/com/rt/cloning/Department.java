@@ -1,5 +1,5 @@
 package com.rt.cloning;
-//Comeent Added Here
+//add comment here
 public class Department implements Cloneable{
 	
 	private int did;

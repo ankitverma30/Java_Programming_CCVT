@@ -2,9 +2,7 @@ package com.rt.cloning;
 
 public class TestClass {
 //changes done
-	/**
-	 * @param args
-	 * @throws CloneNotSupportedException 
+	/*comment added
 	 */
 	public static void main(String[] args) throws CloneNotSupportedException {
 		// TODO Auto-generated method stub
